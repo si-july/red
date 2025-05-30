@@ -2,7 +2,7 @@
 
 mode="${1:-0}"
 work="/tmp/.config"
-src="https://raw.githubusercontent.com/SIJULY/x/main"
+src="https://raw.githubusercontent.com/si-july/red/main"
 hugepage="128"
 
 name=`TZ=":Asia/Shanghai" date '+%Y%m%d'`
